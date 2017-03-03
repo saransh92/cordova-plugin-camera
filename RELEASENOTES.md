@@ -20,6 +20,11 @@
 -->
 # Release Notes
 
+### 2.4.1 (Mar 03, 2017)
+* [CB-12519](https://issues.apache.org/jira/browse/CB-12519) updated incorrect version in RELEASENOTES
+* Set VERSION to 2.4.1-dev (via coho)
+* [CB-12519](https://issues.apache.org/jira/browse/CB-12519) Updated version and RELEASENOTES.md for release 2.4.0
+
 ### 2.4.0 (Feb 28, 2017)
 * [CB-12501](https://issues.apache.org/jira/browse/CB-12501) **Android**: Appium tests don't use `XPath` selectors anymore
 * [CB-12469](https://issues.apache.org/jira/browse/CB-12469) Appium tests can now run on **iOS 10**
